@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.myButton{
+  color: #61dafb;
+  background-color: #282c34;
+}
+
+.img{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
