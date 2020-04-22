@@ -9,10 +9,6 @@ interface SearchState {
     error?: boolean;
 }
 
-interface Pokemon{
-    
-}
-
 class Pokemon extends Component<User, SearchState>{
 
     constructor(props:User){
